@@ -1,5 +1,5 @@
 ---
-name: About Awake
+name: About Expoka
 image: /logo.svg
 ---
-All about the Awake Nuxt Template
+Expoka is a platform where you can find trend news 
